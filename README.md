@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ignacio Matamala</h1>
 <h3 align="center">I am passionate about Data Science | Data Analysis</h3>
 
-- 🌱 I’m currently learning **Power Bi, Knime, Microsoft Azure, Python, Statistics, Mathematics, Machine Learning, Business Intelligence, Scientific Method**
+- 🌱 I’m currently learning **Power Bi, Knime, Microsoft Azure, Python, Statistics, Mathematics, Machine Learning, Business Intelligence, Scientific Method, English **
 
 - ⚡ Fun fact **I am a sports and personal development enthusiast**
 
